@@ -1,0 +1,1 @@
+# divi-child-theme
